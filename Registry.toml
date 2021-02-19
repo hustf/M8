@@ -1,0 +1,6 @@
+name = "M8"
+uuid = "060d7059-869b-42ee-b950-cd4f26bf01e8"
+repo = "https://github.com/hustf/M8"
+description = "Open access private Julia registry"
+
+[packages]
