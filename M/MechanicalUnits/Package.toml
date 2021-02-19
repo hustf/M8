@@ -1,0 +1,3 @@
+name = "MechanicalUnits"
+uuid = "e6be9192-89dc-11e9-36e6-5dbcb28f419e"
+repo = "https://github.com/hustf/MechanicalUnits.jl"
