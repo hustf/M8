@@ -1,0 +1,3 @@
+name = "MechGlueInterpolations"
+uuid = "a2cecc3b-2043-4d36-9615-d8139ca22695"
+repo = "https://github.com/hustf/MechGlueInterpolations.jl"

@@ -11,4 +11,5 @@ description = "Open access private Julia registry"
 5ee08b94-2369-4f4a-b8c7-99333ba35fb0 = { name = "Unitfu", path = "U/Unitfu" }
 6aa70590-773c-4af3-96e3-9e675ae1cb83 = { name = "MechGlueRecursiveArrayTools", path = "M/MechGlueRecursiveArrayTools" }
 83168081-0482-427f-a8e5-e3977330cfc7 = { name = "MechGlueModelingToolkit", path = "M/MechGlueModelingToolkit" }
+a2cecc3b-2043-4d36-9615-d8139ca22695 = { name = "MechGlueInterpolations", path = "M/MechGlueInterpolations" }
 e6be9192-89dc-11e9-36e6-5dbcb28f419e = { name = "MechanicalUnits", path = "M/MechanicalUnits" }
