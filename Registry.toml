@@ -4,6 +4,7 @@ repo = "https://github.com/hustf/M8"
 description = "Open access private Julia registry"
 
 [packages]
+03a24088-0a82-4850-846f-2cad5d056ae1 = { name = "MechGluePlots", path = "M/MechGluePlots" }
 183f2c95-4b91-4df3-9bd2-197e8f9edb13 = { name = "MechanicalSketch", path = "M/MechanicalSketch" }
 2532746b-52b5-4539-9431-8bb183ab067f = { name = "MechGlueDiffEqBase", path = "M/MechGlueDiffEqBase" }
 3017d99d-ab52-4519-99a2-fa9ddc4637fe = { name = "MechGluecode", path = "M/MechGluecode" }
