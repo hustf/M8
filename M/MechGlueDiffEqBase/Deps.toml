@@ -4,3 +4,6 @@ MechanicalUnits = "e6be9192-89dc-11e9-36e6-5dbcb28f419e"
 
 ["0.1.2-0"]
 Unitfu = "5ee08b94-2369-4f4a-b8c7-99333ba35fb0"
+
+["0.1.3-0"]
+SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
