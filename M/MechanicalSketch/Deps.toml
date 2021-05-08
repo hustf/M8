@@ -21,3 +21,7 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 ["0.0.3-0"]
 LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
 Latexify = "23fbe1c1-3f47-55db-b15f-69d7ec21a316"
+
+["0.5-0"]
+MechGluecode = "3017d99d-ab52-4519-99a2-fa9ddc4637fe"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
