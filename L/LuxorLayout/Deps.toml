@@ -3,3 +3,6 @@ Cairo = "159f3aea-2a34-519c-b102-8c37f9878175"
 Luxor = "ae8d54c2-7ccd-5906-9d76-62fc9837b5bc"
 Pango_jll = "36c8627f-9965-5494-a995-c6b170f724f3"
 ThreadPools = "b189fb0b-2eb5-4ed4-bc0c-d34c51242431"
+
+["0.0.3-0"]
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
