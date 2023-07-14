@@ -16,3 +16,4 @@ description = "Open access private Julia registry"
 a2cecc3b-2043-4d36-9615-d8139ca22695 = { name = "MechGlueInterpolations", path = "M/MechGlueInterpolations" }
 bc38f42f-d837-40aa-8305-15f3941c28e9 = { name = "LuxorLabels", path = "L/LuxorLabels" }
 e6be9192-89dc-11e9-36e6-5dbcb28f419e = { name = "MechanicalUnits", path = "M/MechanicalUnits" }
+efba8334-88fd-495a-b060-0ad2334728aa = { name = "LuxorMareyDiagram", path = "L/LuxorMareyDiagram" }
