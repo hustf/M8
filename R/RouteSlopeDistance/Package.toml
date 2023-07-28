@@ -1,0 +1,3 @@
+name = "RouteSlopeDistance"
+uuid = "07025e9e-5a27-4179-b043-88080b1ee239"
+repo = "https://github.com/hustf/RouteDistanceInclination.jl"
