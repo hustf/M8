@@ -1,0 +1,3 @@
+name = "StopsAndTimetables"
+uuid = "b292befe-0c80-425c-929c-656b711f1b2a"
+repo = "https://github.com/hustf/StopsAndTimetables.jl"
