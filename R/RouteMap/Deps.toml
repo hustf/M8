@@ -6,3 +6,7 @@ LuxorLayout = "909dfbbc-cb73-418e-9556-eed3773b40ca"
 
 ["0.0.6-0"]
 Pango_jll = "36c8627f-9965-5494-a995-c6b170f724f3"
+
+["0.2.1-0"]
+BSplines = "488c2830-172b-11e9-1591-253b8a7df96d"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
