@@ -4,3 +4,11 @@ ImageMorphology = "787d08f9-d448-5407-9aad-5290dd7ab264"
 LuxorLayout = "909dfbbc-cb73-418e-9556-eed3773b40ca"
 Pango_jll = "36c8627f-9965-5494-a995-c6b170f724f3"
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+
+["0.0.3-0"]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+ImageIO = "82e4d734-157c-48bb-816b-45c225c6df19"
+ImageShow = "4e3cecfd-b093-5904-9786-8bbb286a6a31"
+IniFile = "83e8ac13-25f8-5344-8a64-a9f2b223428f"
+PNGFiles = "f57f5aa1-a3ce-4bc8-8ab9-96f992907883"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
