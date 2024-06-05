@@ -10,6 +10,11 @@ ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
 ImageFiltering = "6a3955dd-da59-5b1f-98d4-e7296123deb5"
 ImageSegmentation = "80713f31-8817-5129-9cf8-209ff8fb23e1"
 
+["0.0.16-0"]
+GDAL_jll = "a7073274-a066-55f0-b90d-d619367d196c"
+PROJ_jll = "58948b4f-47e0-5654-a9ad-f609743f8632"
+SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
+
 ["0.0.3-0"]
 FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 ImageIO = "82e4d734-157c-48bb-816b-45c225c6df19"
