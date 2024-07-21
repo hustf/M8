@@ -25,6 +25,9 @@ ColorBlendModes = "60508b50-96e1-4007-9d6c-f475c410f16b"
 ["0.0.24-0"]
 ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
 
+["0.0.26-0"]
+Geodesy = "0ef565a4-170c-5f04-8de2-149903a85f3d"
+
 ["0.0.3-0"]
 FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 ImageIO = "82e4d734-157c-48bb-816b-45c225c6df19"
