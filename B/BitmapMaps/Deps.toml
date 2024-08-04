@@ -36,6 +36,10 @@ IniFile = "83e8ac13-25f8-5344-8a64-a9f2b223428f"
 PNGFiles = "f57f5aa1-a3ce-4bc8-8ab9-96f992907883"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
+["0.0.32-0"]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
 ["0.0.8-0"]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 ZipFile = "a5390f91-8eb1-5f08-bee0-b1d1ffed6cea"
