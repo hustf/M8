@@ -1,0 +1,10 @@
+[0]
+BitmapMaps = "0.4"
+ColorBlendModes = "0.2.4 - 0.2"
+ImageCore = "0.10.5 - 0.10"
+ImageFiltering = "0.7.10 - 0.7"
+ImageTransformations = "0.10.2 - 0.10"
+Interpolations = "0.16.1 - 0.16"
+LinearAlgebra = "1.11.0 - 1"
+LinearSolve = "3.18.2 - 3"
+StaticArrays = "1.9.13 - 1"
