@@ -66,3 +66,6 @@ BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 Extents = "411431e0-e8b7-467b-b5e0-f676ba4f2910"
 HDF5_jll = "0234f1f7-429e-5d53-9886-15a909be8d59"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0.4.2 - 0"]
+GeoInterface = "cf35fbd7-0cd7-5166-be24-54bfbe79505f"
