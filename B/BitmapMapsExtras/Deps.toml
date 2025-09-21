@@ -3,10 +3,12 @@ BitmapMaps = "dcf5437e-85d8-460a-98f8-69920db83c61"
 ColorBlendModes = "60508b50-96e1-4007-9d6c-f475c410f16b"
 ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
 ImageFiltering = "6a3955dd-da59-5b1f-98d4-e7296123deb5"
-Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 LinearSolve = "7ed4a6bd-45f5-4d41-b270-4a48e9bafcae"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0 - 0.0.10"]
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 
 ["0 - 0.0.9"]
 ImageTransformations = "02fcd773-0e25-5acc-982a-7f6622650795"
