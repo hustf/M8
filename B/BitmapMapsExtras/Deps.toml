@@ -1,5 +1,4 @@
 [0]
-BitmapMaps = "dcf5437e-85d8-460a-98f8-69920db83c61"
 ColorBlendModes = "60508b50-96e1-4007-9d6c-f475c410f16b"
 ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
 ImageFiltering = "6a3955dd-da59-5b1f-98d4-e7296123deb5"
@@ -12,6 +11,9 @@ Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 
 ["0 - 0.0.9"]
 ImageTransformations = "02fcd773-0e25-5acc-982a-7f6622650795"
+
+["0.0"]
+BitmapMaps = "dcf5437e-85d8-460a-98f8-69920db83c61"
 
 ["0.0.12 - 0"]
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
@@ -33,3 +35,7 @@ OrdinaryDiffEqCore = "bbf590c4-e513-4bbe-9b18-05decba2e5d8"
 
 ["0.0.5 - 0"]
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+["0.1 - 0"]
+DrawAndSpray = "80de0461-81d9-4176-ac57-184d3ad6c8ef"
+ImageShow = "4e3cecfd-b093-5904-9786-8bbb286a6a31"
