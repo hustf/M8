@@ -45,3 +45,7 @@ DrawAndSpray = "80de0461-81d9-4176-ac57-184d3ad6c8ef"
 
 ["0.1.0"]
 ImageShow = "4e3cecfd-b093-5904-9786-8bbb286a6a31"
+
+["0.1.5 - 0"]
+NonlinearSolve = "8913a72c-1f9b-4ce2-8d82-65094dcecaec"
+NonlinearSolveBase = "be0214bd-f91f-a760-ac4e-3421ce2b2da0"
