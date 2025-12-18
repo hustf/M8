@@ -1,20 +1,42 @@
-["0 - 0.3.0"]
+["0-0.4.1"]
 julia = "1.9.0-1"
 
 ["0.0"]
 Pango_jll = "1.42.4"
 
-["0.0.19 - 0.3.0"]
+["0.0.19-0.3.0"]
 GeoArrays = "0.8.5"
 
-["0.3.1 - 0.4.1"]
-Extents = "0.1.5 - 0.1"
-GeoArrays = "0.9.4 - 0.9"
-Geodesy = "1.1.0 - 1"
-HDF5_jll = "1.14.3 - 1"
-ImageShow = "0.3.8 - 0.3"
-StaticArrays = "1.9.12 - 1"
-julia = "1.9.0 - 1"
+["0.3.1-0.4.1"]
+Extents = "0.1.5-0.1"
+GeoArrays = "0.9.4-0.9"
+Geodesy = "1.1.0-1"
+HDF5_jll = "1.14.3-1"
+ImageShow = "0.3.8-0.3"
+StaticArrays = "1.9.12-1"
 
-["0.4.2 - 0"]
-GeoInterface = "1.4.1 - 1"
+["0.4.2-0.4.3"]
+GeoInterface = "1.4.1-1"
+
+["0.4.4-0"]
+ColorTypes = "0.12.1-0.12"
+Dates = "1.11.0-1"
+DelimitedFiles = "1.9.1-1"
+Extents = "0.1.6-0.1"
+EzXML = "1.2.3-1"
+FileIO = "1.17.1-1"
+GeoArrays = "0.9.5-0.9"
+Geodesy = "1.2.0-1"
+ImageCore = "0.10.5-0.10"
+ImageFiltering = "0.7.12-0.7"
+ImageMorphology = "0.4.7-0.4"
+ImageSegmentation = "1.10.0-1"
+IniFile = "0.5.1-0.5"
+MetaGraphsNext = "0.7.5-0.7"
+PNGFiles = "0.4.4-0.4"
+Random = "1.11.0-1"
+SHA = "0.7"
+Serialization = "1.11.0-1"
+Stadnamn = "0.2"
+StaticArrays = "1.9.15-1"
+ZipFile = "0.10.1-0.10"
