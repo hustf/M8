@@ -13,6 +13,7 @@ description = "Open access private Julia registry"
 306ff6e8-cf68-49cb-8c42-e7ffdeba4da8 = { name = "ReplSpotifyPlayer", path = "R/ReplSpotifyPlayer" }
 5ee08b94-2369-4f4a-b8c7-99333ba35fb0 = { name = "Unitfu", path = "U/Unitfu" }
 6aa70590-773c-4af3-96e3-9e675ae1cb83 = { name = "MechGlueRecursiveArrayTools", path = "M/MechGlueRecursiveArrayTools" }
+7069561a-89be-46b5-8eda-e90f9df5b813 = { name = "SvgDirect", path = "S/SvgDirect" }
 80de0461-81d9-4176-ac57-184d3ad6c8ef = { name = "DrawAndSpray", path = "D/DrawAndSpray" }
 83168081-0482-427f-a8e5-e3977330cfc7 = { name = "MechGlueModelingToolkit", path = "M/MechGlueModelingToolkit" }
 909dfbbc-cb73-418e-9556-eed3773b40ca = { name = "LuxorLayout", path = "L/LuxorLayout" }
