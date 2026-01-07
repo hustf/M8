@@ -1,0 +1,3 @@
+name = "DrivingTime"
+uuid = "1ecbb15d-b281-4057-aa90-5b0af5572765"
+repo = "https://github.com/hustf/DrivingTime.jl"
