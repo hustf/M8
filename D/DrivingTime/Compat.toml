@@ -8,3 +8,6 @@ SciMLBase = "2.132.0-2"
 ["0.0.2-0"]
 IniFile = "0.5.1-0.5"
 Interpolations = "0.16.2-0.16"
+
+["0.0.3-0"]
+StaticArrays = "1.9.16-1"
