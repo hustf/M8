@@ -4,3 +4,7 @@ OrdinaryDiffEq = "6.105.0-6"
 OrdinaryDiffEqCore = "2.3.0-2"
 Plots = "1.41.3-1"
 SciMLBase = "2.132.0-2"
+
+["0.0.2-0"]
+IniFile = "0.5.1-0.5"
+Interpolations = "0.16.2-0.16"
