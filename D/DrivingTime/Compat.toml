@@ -9,5 +9,10 @@ SciMLBase = "2.132.0-2"
 IniFile = "0.5.1-0.5"
 Interpolations = "0.16.2-0.16"
 
-["0.0.3-0"]
+["0.0.3"]
 StaticArrays = "1.9.16-1"
+
+["0.0.4-0"]
+Logging = "1.11.0-1"
+RecursiveArrayTools = "3.43.0-3"
+Test = "1.11.0-1"
