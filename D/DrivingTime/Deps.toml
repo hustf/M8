@@ -7,6 +7,9 @@ RouteSlopeDistance = "07025e9e-5a27-4179-b043-88080b1ee239"
 SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 
+["0.0.11-0"]
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+
 ["0.0.2-0"]
 IniFile = "83e8ac13-25f8-5344-8a64-a9f2b223428f"
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
