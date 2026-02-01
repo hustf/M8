@@ -5,3 +5,6 @@ SvgDirect = "7069561a-89be-46b5-8eda-e90f9df5b813"
 
 ["0.0.2-0"]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+
+["0.0.3-0"]
+RouteSlopeDistance = "07025e9e-5a27-4179-b043-88080b1ee239"
