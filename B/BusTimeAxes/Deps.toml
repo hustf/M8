@@ -8,3 +8,8 @@ Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 
 ["0.0.3-0"]
 RouteSlopeDistance = "07025e9e-5a27-4179-b043-88080b1ee239"
+
+["0.0.4-0"]
+IniFile = "83e8ac13-25f8-5344-8a64-a9f2b223428f"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
